@@ -15,7 +15,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body data-theme="cyberpunk" className={inter.className}>{children}</body>
+      <body data-theme="white" className={inter.className}>{children}</body>
     </html>
     
   )
